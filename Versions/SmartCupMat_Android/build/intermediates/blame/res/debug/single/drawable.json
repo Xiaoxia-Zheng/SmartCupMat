@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/res/merged/debug/drawable/logo.png",
+        "source": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/res/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/res/merged/debug/drawable/ui_main.png",
+        "source": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/res/drawable/ui_main.png"
+    },
+    {
+        "merged": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_right_holo_dark.xml",
+        "source": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_holo_dark.xml",
+        "source": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/res/merged/debug/drawable/red_button.xml",
+        "source": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/res/drawable/red_button.xml"
+    },
+    {
+        "merged": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/res/merged/debug/drawable/notification_cup.png",
+        "source": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/res/drawable/notification_cup.png"
+    },
+    {
+        "merged": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/res/merged/debug/drawable/abc_search_dropdown_light.xml",
+        "source": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/res/merged/debug/drawable/search.png",
+        "source": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/res/drawable/search.png"
+    },
+    {
+        "merged": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_holo_light.xml",
+        "source": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/res/merged/debug/drawable/abc_ic_clear_holo_light.xml",
+        "source": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/res/merged/debug/drawable/abc_spinner_ab_holo_dark.xml",
+        "source": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/res/merged/debug/drawable/abc_spinner_ab_holo_light.xml",
+        "source": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/res/merged/debug/drawable/abc_ic_clear.xml",
+        "source": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_ic_clear.xml"
+    },
+    {
+        "merged": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_ab_holo.xml",
+        "source": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_right_holo_light.xml",
+        "source": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/res/merged/debug/drawable/abc_search_dropdown_dark.xml",
+        "source": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/build/intermediates/res/merged/debug/drawable/ui_device.png",
+        "source": "/Users/zhengli/Desktop/621-Adv OS/Projects/final project/Versions/SmartCupMat_final/res/drawable/ui_device.png"
+    }
+]
